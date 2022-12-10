@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GoDoT777.github.io/rsschool-cv/cv
