@@ -10,3 +10,5 @@ front-end developer to find some atypical solutions and to better understand the
 7. I had completed some math trainings and python one. My current education level - full 9 years of school (now I'm in 10th grade)
 8. My english level is something around B2. I haven't tested it, but our school books are B2+ level and I've been watching films and reading books
 on english for the last year. I also had a bit of practicum on OLX work, where I translated subtitles on english, french, russian and ukrainian.
+
+I hope this page would be updated soon with my new progress.
