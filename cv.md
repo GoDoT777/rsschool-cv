@@ -1,5 +1,5 @@
 1. Bohdan Vozniak
-2. Gmail: bvr2006bvr2006@gmail.com
+2. Gmail: bvr2006bvr2006@gmail.com; phone number: +380669287830
 3. I'm not familiar with js, but I already have enough experience in python and c# languages, had worked on unity game as a school project. 
 I am good in math, which is prooved by some prizes on a third stage of Ukrainian olympiads (Kiyv city level). I am quite interested in working
 at this field in the future, so my motivation is obvious. 3D modeling and adjusting render in PS is also my hobby and it may be useful for
