@@ -1,4 +1,4 @@
-# My **little** CV about **huge** plans 
+# My **little** CV about **huge** plans (-_-) #
 1. Bohdan Vozniak
 2. Gmail: bvr2006bvr2006@gmail.com; phone number: +380669287830
 3. I'm not familiar with js, but I already have enough experience in python and c# languages, had worked on unity game as a school project. 
